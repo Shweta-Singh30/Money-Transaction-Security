@@ -41,7 +41,5 @@ txnBuffer = [makeTransaction() for i in range(30)]
 # WAIT WAIT Project Code is longer and detailed explained.
 # Mail me to get Full Project Code at [ vatshayan007@gmail.com ]
 
-"""# Mail me at vatshayan007@gail.com for Project Files.
-## Project Files will include Project Code, Project PPT. Report and documentations 
-"""
+
 
